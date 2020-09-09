@@ -6,7 +6,6 @@ COVID-19 DASHBOARD
 # Project Dashboard 
 
 
-[Randall Scott Taylor: LinkedIn](https://www.linkedin.com/in/randall-taylor-ab1794163/)
-
-link(for now) http://49ffe1e4a6d7.ngrok.io
+[Randall Scott Taylor: LinkedIn](https://www.linkedin.com/in/randall-taylor-ab1794163/
+[link to live interactive dashboard](http://tayloranalytics.ngrok.io/)
 
